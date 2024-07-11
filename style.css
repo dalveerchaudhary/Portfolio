@@ -58,7 +58,7 @@ p {
 
 .cta {
   display: inline-block;
-  padding: 10px 30px;
+  padding: 1px 2px;
   color: white;
   background-color: transparent;
   border: 10px solid rgb(71, 110, 119);
@@ -68,6 +68,7 @@ p {
   margin-top: 30px;
   transition: 0.3s ease;
   transition-property: background-color, color;
+  border-radius: 30px;
 }
 
 .cta:hover {
@@ -335,7 +336,7 @@ p {
   flex-direction: column;
   padding: 30px;
   border-radius: 10px;
-  background-image: url(./img/img-1.png);
+  background-image: url(thard.jpg);
   background-size: cover;
   margin: 10px 5%;
   position: relative;
